@@ -1,0 +1,11 @@
+Arduino Timer Switch:
+
+-10K Pot x 4
+
+-1K resistor x 2
+
+-10K resistors x 8
+
+-Push buttons x 8
+
+-Single stand wires, jumpers.
